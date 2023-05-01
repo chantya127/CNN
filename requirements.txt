@@ -1,6 +1,6 @@
 opencv_contrib_python==4.2.0.34
 numpy==1.18.3
-Flask==1.1.2
+Flask==2.3.2
 gevent==20.6.2
 keras==2.4.3
 tensorflow==2.2.0
